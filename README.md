@@ -1,0 +1,1 @@
+# New_newspaper_template
