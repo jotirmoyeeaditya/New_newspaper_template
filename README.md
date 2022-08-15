@@ -7,9 +7,9 @@ This is a project made by html to create a sample of how a newspaper should look
 
 <h2>Built With</h2>
 
-Html
+-Html
 
-CSS
+-CSS
 
 
 <h2>Live Demo</h2>
